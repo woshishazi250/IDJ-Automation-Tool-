@@ -1,0 +1,74 @@
+2026-01-09 08:24:27,798 - modules.image_recognition - INFO - 图像识别模块初始化成功
+2026-01-09 08:24:27,798 - modules.mouse_control - INFO - 鼠标控制模块初始化成功
+2026-01-09 08:24:27,798 - modules.keyboard_control - INFO - 键盘控制模块初始化成功
+2026-01-09 08:24:27,810 - ui.main_window - INFO - 脚本录制器初始化成功
+2026-01-09 08:24:27,847 - core.window_detector - INFO - 成功获取到 7 个可见窗口
+2026-01-09 08:24:27,847 - ui.main_window - INFO - 窗口列表刷新成功，共找到 7 个窗口
+2026-01-09 08:24:27,847 - ui.main_window - INFO - 全局快捷键已注册: Ctrl+Shift+S(截图), Ctrl+Shift+X(暂停), Ctrl+Shift+C(停止)
+2026-01-09 08:24:28,749 - __main__ - INFO - IDJ 脚本自动化软件启动成功
+2026-01-09 08:24:32,816 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:24:32,816 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:24:37,811 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:24:37,812 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:24:42,832 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:24:42,832 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:24:47,829 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:24:47,830 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:24:48,670 - blocks.block_editor - INFO -              执行录制脚本                       ?-                         : (50.0, 50.0)
+2026-01-09 08:24:52,829 - core.window_detector - INFO - 成功获取到 9 个可见窗口
+2026-01-09 08:24:52,829 - ui.main_window - INFO - 窗口列表刷新成功，共找到 9 个窗口
+2026-01-09 08:24:56,538 - modules.script_recorder - INFO - 脚本录制已开始
+2026-01-09 08:24:56,539 - blocks.block_editor - INFO - 开始录制脚本...
+2026-01-09 08:24:57,828 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:24:57,828 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:25:01,535 - modules.script_recorder - INFO - 脚本录制已停止，共录制 2 个动作
+2026-01-09 08:25:02,843 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:25:02,843 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:25:07,841 - core.window_detector - INFO - 成功获取到 9 个可见窗口
+2026-01-09 08:25:07,842 - ui.main_window - INFO - 窗口列表刷新成功，共找到 9 个窗口
+2026-01-09 08:25:08,013 - modules.script_recorder - INFO - 脚本录制已开始
+2026-01-09 08:25:08,013 - blocks.block_editor - INFO - 开始录制脚本...
+2026-01-09 08:25:09,839 - blocks.block_editor - INFO -              执行录制脚本                       ?-                         : (40.0, 155.0)
+2026-01-09 08:25:09,986 - modules.script_recorder - INFO - 脚本录制已停止，共录制 3 个动作
+2026-01-09 08:25:12,844 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:25:12,844 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 08:25:17,852 - core.window_detector - INFO - 成功获取到 8 个可见窗口
+2026-01-09 08:25:17,852 - ui.main_window - INFO - 窗口列表刷新成功，共找到 8 个窗口
+2026-01-09 11:06:05,466 - modules.image_recognition - INFO - 图像识别模块初始化成功
+2026-01-09 11:06:05,482 - modules.mouse_control - INFO - 鼠标控制模块初始化成功
+2026-01-09 11:06:05,482 - modules.keyboard_control - INFO - 键盘控制模块初始化成功
+2026-01-09 11:06:05,492 - ui.main_window - INFO - 脚本录制器初始化成功
+2026-01-09 11:06:05,531 - core.window_detector - INFO - 成功获取到 10 个可见窗口
+2026-01-09 11:06:05,531 - ui.main_window - INFO - 窗口列表刷新成功，共找到 10 个窗口
+2026-01-09 11:06:05,531 - ui.main_window - INFO - 全局快捷键已注册: Ctrl+Shift+S(截图), Ctrl+Shift+X(暂停), Ctrl+Shift+C(停止)
+2026-01-09 11:06:07,720 - __main__ - INFO - IDJ 脚本自动化软件启动成功
+2026-01-09 11:06:10,483 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:10,484 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:15,485 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:15,485 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:20,500 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:20,500 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:25,513 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:25,513 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:30,507 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:30,508 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:35,505 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:35,507 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:40,511 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:40,511 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:45,501 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:45,501 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:50,506 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:50,506 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:06:55,505 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:06:55,505 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:07:00,709 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:07:00,709 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:07:05,515 - core.window_detector - INFO - 成功获取到 11 个可见窗口
+2026-01-09 11:07:05,515 - ui.main_window - INFO - 窗口列表刷新成功，共找到 11 个窗口
+2026-01-09 11:07:09,582 - blocks.block_editor - INFO -              执行录制脚本                       ?-                         : (50.0, 50.0)
+2026-01-09 11:07:09,647 - blocks.block_editor - INFO -              执行录制脚本                          -                         : (50.0, 50.0),                         : (50.0, 50.0),             : (    x=0.0,     y=0.0),             : 0.0px
+2026-01-09 11:07:10,523 - core.window_detector - INFO - 成功获取到 12 个可见窗口
+2026-01-09 11:07:10,523 - ui.main_window - INFO - 窗口列表刷新成功，共找到 12 个窗口
+2026-01-09 11:07:11,847 - modules.script_recorder - INFO - 脚本录制已开始
+2026-01-09 11:07:11,847 - blocks.block_editor - INFO - 开始录制脚本...
